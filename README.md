@@ -11,7 +11,8 @@ Se utilizan datos de huracanes del Atlántico (ejemplo: **Huracán Michael, 2018
 ## 📖 Contenido del repositorio
 
 - `notebooks/`
-  - `Track_huracán.ipynb` → Lectura y limpieza de datos de tracks (NOAA/NHC).
+  - `1-116-S-TropicalStormWindspeeds-StudentVersion` → Guia del proyecto
+  - `Track_huracán.ipynb` → Lectura y limpieza de datos de tracks (NOAA/NHC), estimación de parámetros.
   - `ne_10m_land` → Mapa mundi: Natural Earth Land polygons including major islands.
   - `nhc_hurdat2` → Datos del NHC de diversos huracánes.
   - `consensus_full` → Mapas de terreno (aún no está aplicado)
